@@ -23,6 +23,7 @@ Se quiser criar o cluster nuvem Kubernetes com Terraform é opcional. Enviar os 
 
 
 > Passo a passo
+> 
 ```
 Baixar o código no github https://github.com/leonasci02/atividade_kubernetes.git
 abra o Visual Code na pasta do projeto
