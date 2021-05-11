@@ -10,6 +10,12 @@ Leonardo Ananias do Nascimento Azogue
 
 Vinissius Vioti dos Santos 
 
+#Instalação de software
+
+Kubectl -> https://kubernetes.io/docs/tasks/tools/
+
+Az cli -> https://docs.microsoft.com/pt-br/cli/azure/install-azure-cli
+
 ## ***Descrição Atividade:*** 
 Subir dois pods, nginx e mysql, mapeando a porta 80 do nginx para acesso externo ao cluster e permitir que o contêiner do nginx 
 tenha comunicação de rede no contêiner mysql pela porta 3306. A atividade pode ser feita localmente (minikube), AKS (Azure), EKS (AWS) ou no GKE (GCP). 
